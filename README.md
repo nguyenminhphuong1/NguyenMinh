@@ -17,8 +17,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/NguyenMinh)  
 
 ## 🚀 Projects  
-🔹 [Project 1](#) - A web app for XYZ  
-🔹 [Project 2](#) - Machine learning model for ABC  
+🔹 [Project 1] - A web app Thadosoft.com  
+🔹 [Project 2] - Machine learning model for Thadosoft.com 
+🔹 [Project 2] - CameraAI model for Thadosoft.com 
+🔹 [Project 2] - Monitor model for Thadosoft.com  
+🔹 [Project 2] - Caller model for Thadosoft.com  
 
 ## 🔥 Technologies & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
