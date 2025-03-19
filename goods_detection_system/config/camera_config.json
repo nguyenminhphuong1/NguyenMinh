@@ -1,0 +1,44 @@
+{
+    "cameras": [
+        {
+            "id": "fake_camera",
+            "name": "Camera giả lập ảnh",
+            "type": "ip",
+            "url": "http://localhost:8080",
+            "enabled": true,
+            "resolution": [640, 480],
+            "fps": 1,
+            "reconnect_attempts": 5,
+            "timeout": 20
+        },
+        {
+            "id": "webcam",
+            "name": "Webcam cục bộ",
+            "type": "webcam",
+            "device_id": 0,
+            "enabled": false,
+            "resolution": [640, 480],
+            "fps": 30
+        }
+    ],
+    "camera_groups": [
+        {
+            "id": "test_group",
+            "name": "Nhóm kiểm thử",
+            "camera_ids": ["fake_camera"]
+        }
+    ],
+    "detection_zones": [
+        {
+            "camera_id": "fake_camera",
+            "name": "Vùng phát hiện",
+            "coordinates": [[100, 100], [400, 100], [400, 300], [100, 300]],
+            "detect_objects": ["box", "package", "container", "product", "pallet"]
+        }
+    ],
+    "global_settings": {
+        "frame_buffer_size": 5,
+        "reconnect_interval": 10,
+        "connection_timeout": 15
+    }
+}

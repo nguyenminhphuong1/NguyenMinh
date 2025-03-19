@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaafaecd-3e20-4b0b-b39b-0b0545e09a70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CameraAi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/config/camera_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/config/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/fake_camera_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/fix_qt_plugins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/frontend/assets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/frontend/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/frontend/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20250120140211_20250120143422_140210_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20250120140211_20250120143422_140210_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20250120144357_20250120144804_144356_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20250120144357_20250120144804_144356_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101000235_20340101001110_143924_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101000235_20340101001110_143924_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101024744_20340101031628_133228_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101024744_20340101031628_133228_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101025804_20340101031623_134259_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101025804_20340101031623_134259_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101030117_20340101033454_132729_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101030117_20340101033454_132729_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101034737_20340101035249_132721_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101034737_20340101035249_132721_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101052248_20340101060837_140212_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101052248_20340101060837_140212_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101054440_20340101055640_142329_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101054440_20340101055640_142329_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101060003_20340101060841_143927_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250120_20340101060003_20340101060841_143927_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20250123091200_20250123091256_091158_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20250123091200_20250123091256_091158_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20250123091220_20250123091250_091221_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20250123091220_20250123091250_091221_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20250123091322_20250123091328_091320_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20250123091322_20250123091328_091320_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20250123104952_20250123105100_104949_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20250123104952_20250123105100_104949_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20250123132635_20250123143907_132632_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20250123132635_20250123143907_132632_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340101230401_20340101230500_091154_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340101230401_20340101230500_091154_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102004336_20340102032008_104943_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102004336_20340102032008_104943_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102021952_20340102045624_104941_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102021952_20340102045624_104941_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102031853_20340102043128_132627_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102031853_20340102043128_132627_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102135224_20340102135249_091223_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102135224_20340102135249_091223_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102152854_20340102153001_104948_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102152854_20340102153001_104948_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102152946_20340102153058_104945_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102152946_20340102153058_104945_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102180632_20340102191905_132630_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102180632_20340102191905_132630_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102205030_20340103022231_161028_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340102205030_20340103022231_161028_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340103183529_20340103183606_091215_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340103183529_20340103183606_091215_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340104003238_20340104003334_091200_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340104003238_20340104003334_091200_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340104021022_20340104044654_104944_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340104021022_20340104044654_104944_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340104060955_20340104061913_144916_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250123_20340104060955_20340104061913_144916_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250204_20340115031513_20340115032319_223455_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250204_20340115031513_20340115032319_223455_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250204_20340116140450_20340116141405_224316_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250204_20340116140450_20340116141405_224316_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340114044546_20340114044556_141451_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340114044546_20340114044556_141451_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115013714_20340115020513_114611_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115013714_20340115020513_114611_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115031647_20340115034440_114614_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115031647_20340115034440_114614_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115040653_20340115040704_141452_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115040653_20340115040704_141452_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115042238_20340115042241_125205_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115042238_20340115042241_125205_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115162657_20340115165422_114640_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115162657_20340115165422_114640_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115185424_20340115185435_141454_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115185424_20340115185435_141454_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115195029_20340115195035_151059_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340115195029_20340115195035_151059_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340116012051_20340116014833_114627_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250205_20340116012051_20340116014833_114627_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340115233748_20340115233758_085232_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340115233748_20340115233758_085232_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116002145_20340116002245_085123_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116002145_20340116002245_085123_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116002253_20340116003001_085231_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116002253_20340116003001_085231_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116004047_20340116004218_095531_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116004047_20340116004218_095531_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116004313_20340116004457_095758_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116004313_20340116004457_095758_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116004954_20340116004954_091932_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116004954_20340116004954_091932_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116140444_20340116140907_092426_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116140444_20340116140907_092426_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116142842_20340116143454_094824_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116142842_20340116143454_094824_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116143735_20340116143736_095717_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250206_20340116143735_20340116143736_095717_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20250207215350_20250207215403_215322_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20250207215350_20250207215403_215322_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116021321_20340116021734_114225_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116021321_20340116021734_114225_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116031045_20340116031049_123949_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116031045_20340116031049_123949_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116032911_20340116033032_125753_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116032911_20340116033032_125753_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116033053_20340116033819_125935_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116033053_20340116033819_125935_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116035844_20340116035905_132748_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116035844_20340116035905_132748_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116122330_20340116122335_215233_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116122330_20340116122335_215233_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116122338_20340116122342_215218_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116122338_20340116122342_215218_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116223623_20340116223713_084336_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340116223623_20340116223713_084336_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117013911_20340117013915_114627_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117013911_20340117013915_114627_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117031002_20340117031006_131913_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117031002_20340117031006_131913_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117072140_20340117072144_155121_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117072140_20340117072144_155121_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117082315_20340117082322_165255_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117082315_20340117082322_165255_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117082425_20340117084704_165406_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117082425_20340117084704_165406_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114532_20340117114542_215442_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114532_20340117114542_215442_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114556_20340117114609_215326_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114556_20340117114609_215326_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114644_20340117114651_215537_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114644_20340117114651_215537_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114647_20340117114656_215444_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114647_20340117114656_215444_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114821_20340117114828_215535_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114821_20340117114828_215535_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114854_20340117114903_215449_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114854_20340117114903_215449_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114948_20340117114956_215445_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117114948_20340117114956_215445_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132124_20340117132211_084218_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132124_20340117132211_084218_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132133_20340117132142_084158_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132133_20340117132142_084158_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132343_20340117132357_215323_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132343_20340117132357_215323_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132347_20340117132359_215321_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132347_20340117132359_215321_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132349_20340117132403_215325_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132349_20340117132403_215325_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132515_20340117132524_215448_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132515_20340117132524_215448_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132524_20340117132533_215446_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340117132524_20340117132533_215446_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340118023300_20340118023304_215239_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340118023300_20340118023304_215239_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340118023438_20340118023447_215533_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340118023438_20340118023447_215533_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340118023506_20340118023515_215532_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340118023506_20340118023515_215532_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340118112746_20340118112758_215319_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340118112746_20340118112758_215319_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119071601_20340119071605_215227_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119071601_20340119071605_215227_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119071958_20340119072007_215449_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119071958_20340119072007_215449_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119111007_20340119111016_215446_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119111007_20340119111016_215446_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119121356_20340119121410_215327_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119121356_20340119121410_215327_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119131410_20340119131423_215316_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119131410_20340119131423_215316_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119131414_20340119131426_215318_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119131414_20340119131426_215318_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119131627_20340119131636_215451_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250207_20340119131627_20340119131636_215451_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250208_20250208143033_20250208151222_143008_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250208_20250208143033_20250208151222_143008_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250208_20250208143035_20250208160230_143005_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250208_20250208143035_20250208160230_143005_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250208_20250208151231_20250208160226_151208_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250208_20250208151231_20250208160226_151208_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250208_20250208151240_20250208160227_151214_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250208_20250208151240_20250208160227_151214_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210123157_20250210123209_123134_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210123157_20250210123209_123134_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210123158_20250210123211_123132_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210123158_20250210123211_123132_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210123201_20250210123214_123131_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210123201_20250210123214_123131_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210154802_20250210160408_154736_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210154802_20250210160408_154736_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210154805_20250210160409_154734_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210154805_20250210160409_154734_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210160355_20250210161415_160332_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210160355_20250210161415_160332_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210160409_20250210161419_160343_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210160409_20250210161419_160343_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210160410_20250210161425_160339_1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/20250210_20250210160410_20250210161425_160339_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h21m36s832_1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h21m36s832_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h26m10s677_1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h26m10s677_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h27m12s932_1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h27m12s932_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h28m17s476_1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h28m17s476_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h28m41s134_1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h28m41s134_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h28m52s706_1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/images/vlcsnap-2025-03-11-18h28m52s706_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/init_slots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/mock_receiver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/models/fast_rcnn_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/models/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/models/slot_detection_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/server/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/server/ai_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/server/api/endpoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/server/api/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/server/api/slot_detection_endpoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/server/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/server/templates/admin/data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/server/templates/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/server/templates/admin/models.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/server/templates/admin/training.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/setup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/simple_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/test_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/test_notification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/test_slot_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/test_slot_signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/training/dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/training/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/training/rainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/training/transforms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/utils/camera_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/utils/image_processor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/utils/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/utils/ip_camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods_detection_system/utils/notification.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2uTEoIu5Jj88rstJwkA8fuu8PhC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHELLCHECK.PATH": "/home/admin/.local/share/JetBrains/PyCharm2025.1/Shell Script/shellcheck",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/admin/CameraAi/goods_detection_system/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/goods_detection_system/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/goods_detection_system" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-d159365566ee-JavaScript-PY-251.23774.37" />
+        <option value="bundled-python-sdk-a606e5e558ee-f4058bf5e88f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaafaecd-3e20-4b0b-b39b-0b0545e09a70" name="Changes" comment="" />
+      <created>1742264339081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742264339081</updated>
+      <workItem from="1742264340274" duration="10761000" />
+      <workItem from="1742348064001" duration="10191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

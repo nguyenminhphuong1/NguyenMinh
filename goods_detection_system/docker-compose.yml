@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  ai_server:
+    build: ..
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./data:/app/data
+      - ./models/weights:/app/models/weights
+      - ./logs:/app/logs
+    restart: unless-stopped
+    environment:
+      - DEBUG=0
+      - USE_GPU=0
+
+  # Thêm dịch vụ UI tương tác nếu cần
+  ui:
+    build: ..
+    depends_on:
+      - ai_server
+    ports:
+      - "8080:8080"
+    environment:
+      - AI_SERVER_HOST=ai_server
+      - AI_SERVER_PORT=5000
+    command: ["python", "main.py", "--gui"]
